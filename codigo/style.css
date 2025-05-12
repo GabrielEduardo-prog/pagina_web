@@ -48,3 +48,55 @@ section {
     width: 40px;
     height: 40px;
 }
+
+.box-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 1.5rem;
+
+
+}
+.box img {
+    width: 150px;
+    height: auto;
+}
+
+.box-container{
+    display: flex;
+    justify-content: center;
+    padding: 30px;
+    gap: 20px
+}
+
+.box {
+    border: 1px solid #426b9b;
+    padding: 15px;
+    text-align: center;
+    width: 200px;
+    background-color: #917878;
+    border-radius: 8px;
+}
+
+.box h3 {
+    font-size: 15px;
+    margin: 10px 0;
+}
+
+.box a {
+    display: inline-block;
+    margin-top: 5px;
+    color: #fff;
+    background-color: #1e1963;
+    padding: 8px 12px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+
+.carrinho {
+    background-color: #426b9b;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-size: 15px;
+}
