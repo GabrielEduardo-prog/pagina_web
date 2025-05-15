@@ -23,12 +23,12 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 1.5rem;
+    padding-top: 15rem;
     padding-bottom: 1.5rem;
 }
 
 .navbar a {
-    margin: 0 1rem;
+    margin: 4rem;
     font-size: 15px;
     color: #000000;
 }
@@ -101,7 +101,7 @@ section {
     font-size: 15px;
 }
 h1{
-    text-align:center;
+    text-align:left;
     color: #000000;
     border: 0.5;
     font-style:italic;
@@ -109,4 +109,32 @@ h1{
 }
 body{
 background-color: antiquewhite;    
+}
+.compras {
+    position: absolute;
+    top: 20px;     
+    right: 20px;  
+    z-index: 1000; 
+}
+ 
+.search-box {
+    position: absolute;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    top: 20%;
+    left: 30%;
+    background: antiquewhite;
+}
+
+.search-box input {
+    padding: 5px 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    
+}
+.campo_pesquisa{
+    background: none;
+    border: 0;
 }
