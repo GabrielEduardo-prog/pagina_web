@@ -51,21 +51,31 @@ section {
 
 .box-container {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
-    gap: 1.5rem;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 30px;
+    justify-items: center;
+    gap: 20px
 
 
 }
+
+.box-container .box .preco {
+    color:#fff;
+    font-size: 1.25rem;
+    padding: 0.5rem 0;
+}
+
+.box-container .box .preco span {
+    font-size: 0.9rem;
+    text-decoration: line-through;
+    font-weight: lighter;
+    opacity: 0.8;
+}
+
+
 .box img {
     width: 150px;
     height: auto;
-}
-
-.box-container{
-    display: flex;
-    justify-content: center;
-    padding: 30px;
-    gap: 20px
 }
 
 .box {
