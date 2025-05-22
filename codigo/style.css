@@ -168,3 +168,18 @@ background-color: antiquewhite;
     border-radius: 50%;
     font-weight: bold;
 }
+footer{
+
+background-color: #a98e8e;
+width: 100%;
+padding: 20px 30px 20px;
+
+}
+footer ul{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-size: 1em;
+    color: #000000;
+    text-decoration: none;
+}
