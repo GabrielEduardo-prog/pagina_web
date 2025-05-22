@@ -144,14 +144,14 @@ background-color: antiquewhite;
     display:flex;
     align-items:center;
     gap: 0rem;
-    top: 20%;
+    top: 30%;
     left: 35%;
     background: antiquewhite;
 }
 
 .search-box input {
     padding: 3px 5px;
-    border: 1px solid #ccc;
+    border: none;
     border-radius: 4px;
     font-size: 14px;
     width: 350px;
