@@ -23,7 +23,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top: 15rem;
+    padding-top:10rem;
     padding-bottom: 1.5rem;
 }
 head h1{
@@ -115,10 +115,10 @@ head h1{
     background-color: #426b9b;
     color: white;
     border: none;
-    padding: 10px 15px;
+    padding: 5px 15px ;
     border-radius: 5px;
     font-size: 15px;
-    position: fixed;
+    position: center;
 }
 h1{
     text-align:center;
@@ -141,11 +141,11 @@ background-color: antiquewhite;
  
 .search-box {
     position: absolute;
-    display: flex;
+    display:flex;
     align-items:center;
     gap: 0rem;
     top: 20%;
-    left: 37%;
+    left: 35%;
     background: antiquewhite;
 }
 
