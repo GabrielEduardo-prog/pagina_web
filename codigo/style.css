@@ -193,15 +193,6 @@ footer ul{
     color: #000000;
     text-decoration: none;
 }
-body {
-  margin: 0;
-}
-
-header {
-  position: relative;
-  height: 80px 
-}
-
 .logo {
   position: absolute;
   top: 1px;
