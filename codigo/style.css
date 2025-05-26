@@ -162,6 +162,7 @@ background-color: antiquewhite;
     background: none;
     border: 0;
     text-align: left;
+
 }
 #contador-carrinho {
     position: fixed;
@@ -197,6 +198,6 @@ footer ul{
   position: absolute;
   top: 1px;
   left: 10px;
-  height: 70px;
-  width: 70px; 
+  height: 80px;
+  width: 80px; 
 }
