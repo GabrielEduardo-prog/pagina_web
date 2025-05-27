@@ -206,5 +206,12 @@ footer ul{
     font-size: 18px;
     margin-top: 10rem;
     margin-bottom: 1rem;
-    color: #e61717;
+    color: yellow;
+    background-color: blue;
+    padding: 20px;
+    border-radius: 8px;
+    width: 80%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
 }
