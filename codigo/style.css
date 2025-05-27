@@ -23,7 +23,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-top:8rem;
+    padding-top: 8rem;
     padding-bottom: 1.5rem;
 }
 head h1{
@@ -200,4 +200,11 @@ footer ul{
   left: 10px;
   height: 80px;
   width: 80px; 
+}
+.mensagem {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 10rem;
+    margin-bottom: 1rem;
+    color: #e61717;
 }
