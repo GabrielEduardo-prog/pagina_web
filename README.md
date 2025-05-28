@@ -1,9 +1,24 @@
 # 💤 Estilo&conforto
 
-![Pillow GIF](https://i.gifer.com/2VRD.gif)
-<!-- ![Pillow GIF](https://media.tenor.com/9X-I0mcc_OgAAAAM/dog-funny.gif) -->
+
+![Acessar o site](https://raichu-uploads.s3.amazonaws.com/logo_estilo-e-conforto_3o0WtI.png)
 
 > Seu descanso com estilo começa aqui. Um e-commerce feito com carinho para quem valoriza conforto e noites bem dormidas. 🛌
+
+
+
+## Membros do projeto:
+ 
+
+- Gabriel Eduardo [instagram](https://www.instagram.com/gabrieledu0)
+- Paulo Artur  [instagram](https://www.instagram.com/pauloartursilvafelix/)
+- Vitor Gabriel [instagram](https://www.instagram.com/vitorgabriel.regis/)
+- joão Xavier [instagram](https://www.instagram.com/ojaaoxav/)
+
+
+![Pillow GIF](https://i.gifer.com/2VRD.gif)
+
+
 
 ---
 
@@ -40,19 +55,8 @@ Você pode acessar o projeto clicando no link abaixo:
 
 ## 🌙 Inspiração
 
-Porque dormir bem é essencial. Criar uma loja digital de travesseiros é mais do que vender — é promover estilo e conforto.
 
----
+Dormir bem é essencial. Criar uma loja digital de travesseiros é mais do que vender — é promover estilo e conforto. 
 
-## 📸 Imagem do projeto
 
-![screenshot do site](https://via.placeholder.com/800x400.png?text=Preview+do+site)
 
----
-
-## Membros:
- 
-- Gabriel Eduardo [GitHub](https://github.com/gabrieleduardo-prog)
-- Paulo Artur  [GitHub](https://github.com/Paulartur)
-- Vitor Gabriel [GitHub](https://github.com/vitorgabrielregis)
-- joão Xavier [GitHub](https://github.com/JoaoSilvaXavier)
