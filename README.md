@@ -1,7 +1,8 @@
 # 💤 Estilo&conforto
 
 
-![Acessar o site](https://raichu-uploads.s3.amazonaws.com/logo_estilo-e-conforto_3o0WtI.png)
+![Pillow GIF](https://i.gifer.com/WcDj.gif)
+
 
 > Seu descanso com estilo começa aqui. Um e-commerce feito com carinho para quem valoriza conforto e noites bem dormidas. 🛌
 
