@@ -51,7 +51,7 @@ body {
 	display: inline-block;
 	background-color: #fff;
 	border: #dadada 1px solid;
-	box-shadow: 2px 2px 2px rgb(160,160,160);
+	box-shadow: 2px 2px 2px rgb(160, 160, 160);
 }
 .carrinho_linha .pic span {
 	width: 50px;
@@ -113,9 +113,10 @@ body {
 .conteiner_carrinho footer button {
 	color:antiquewhite;
 	border: none;
-	font-size: 1em;
-	padding: 5px 15px;	
-	background-color: #a98e8e;
+	font-size: 1.5em;
+	padding: 7px 18px;	
+	background-color: #00490c;
+	margin: 1.5em;
 }
 .conteiner_carrinho footer .valor {
 	display: flex;

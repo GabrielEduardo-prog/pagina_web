@@ -49,7 +49,7 @@ O projeto tem como objetivo simular um site real de vendas com navegação intui
 
 Você pode acessar o projeto clicando no link abaixo:
 
-🔗 [Acessar o site](https://gabrieleduardo-prog.github.io/nome-do-repositorio)
+🔗 [Acessar o site](https://gabrieleduardo-prog.github.io/pagina_web/codigo/pag.html)
 
 
 ---
