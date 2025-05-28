@@ -247,10 +247,10 @@ footer{
 }
 
 .banner-imagem {
-  background-image: url('img/almofada_cachorro.png'); 
+  background-image: url('img/almofada_futura.png'); 
   background-size: cover;
   background-position: center;
-  height: 600px;
+  height: 810px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -259,7 +259,7 @@ footer{
 }
 
 .banner-texto {
-  color: lab(92.33% 3.04 1.07 / 0.993);
+  color: lch(100% 0.01 296.81 / 0.897);
   font-size: 20px;
   font-weight: bold;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
