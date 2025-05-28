@@ -70,7 +70,16 @@
 						<p class="valor_tipo">valor</p>
                         <p class="valor_preço">R$64,77</p>
 					</div>
-					<button>Finalizar Compra</button>
+					<button class="Finalizar">Finalizar Compra</button>
+					<script>
+						var botaoFinalizar = document.querySelector('.Finalizar');
+
+                            if (botaoFinalizar) {
+                                botaoFinalizar.onclick = function() {
+                                    alert('Compra finalizada com sucesso!');
+};
+}
+					</script>
 				</footer>
 			</div>
 		</div>
