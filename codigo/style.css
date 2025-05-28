@@ -12,7 +12,6 @@ section {
     margin: 0 auto;
     max-width: 1200px;
     background-color: antiquewhite;
-    z-index: 1;
 }
 
 .header {
@@ -26,11 +25,9 @@ section {
     justify-content: center;
     padding-top: 8rem;
     padding-bottom: 1.5rem;
-    z-index: 1;
 }
 head h1{
     padding: 20px 20 px 30 px;
-    z-index: 1;
 }
 
 .navbar a {
@@ -261,8 +258,4 @@ footer{
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-}
-/* janela modal */
-.btn:hover{
-    background-color: antiquewhite;
 }
