@@ -246,20 +246,9 @@ footer{
   width: 80px; 
 }
 
-.banner-imagem {
-  background-image: url('img/almofada_futura.png'); 
-  background-size: cover;
-  background-position: center;
-  height: 810px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  text-align: center;
-  margin-top: 10rem;
-}
 
 .banner-texto {
-  color: lch(100% 0.01 296.81 / 0.897);
+  color: lch(45.17% 73.96 33.68 / 0.897);
   font-size: 20px;
   font-weight: bold;
   text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.6);
